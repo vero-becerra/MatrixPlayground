@@ -1,5 +1,5 @@
 ---
-name: monday-demo-builder
+name: alioli
 description: Usar cuando se comparta un caso de Vtiger, el requerimiento de un vendedor o los dolores de un cliente y se pida analizar el caso de uso y armar un demo personalizado en monday.com (workspace, tableros, AI columns, Sidekick, Notetaker, Agents, Vibe, dashboards). Usar proactivamente ante frases como "arma el demo", "analiza este caso", "prepara el workspace de demo" o "tengo este requerimiento del vendedor".
 model: inherit
 ---
